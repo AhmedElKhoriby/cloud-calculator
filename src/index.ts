@@ -36,7 +36,7 @@ app.get('/multiply', handleOperation('multiply', Calculator.multiply));
 app.get('/subtract', handleOperation('subtract', Calculator.subtract));
 app.get('/divide', handleOperation('divide', Calculator.divide));
 
-const PORT: number = parseInt(process.env.PORT || '5000', 10);
+const PORT: number = parseInt(process.env.PORT || '3000', 10);
 app.listen(PORT, () => {
   console.log(`Cloud Calculator is running on port ${PORT}...`);
 });
