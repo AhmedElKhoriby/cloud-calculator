@@ -94,6 +94,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - ahmedelkhoriby010@gmail.com
+Name - ahmedelkhoriby010@gmail.com
 
 Project Link: [https://github.com/AhmedElKhoriby/cloud-calculator](https://github.com/AhmedElKhoriby/cloud-calculator.git)
